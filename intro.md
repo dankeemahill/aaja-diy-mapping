@@ -50,9 +50,9 @@
 
 These tools/platforms allow you to use data spatially:
 
-- QGIS
 - CartoDB
 - MapBox
+- QGIS
 
 ## Where to begin?
 
